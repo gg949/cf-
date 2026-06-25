@@ -1,24 +1,24 @@
-cfyes.lxy1015.top:443#优选域名
-unamecf2.xn--ghqu5fm27b67w.com:443#优选域名
-downloadcfpro.xn--ghq880n3na965a.com:443#优选域名
-unamecf.xn--ghqu5fm27b67w.com:443#优选域名
-anycast-1.twcc.eu.org:443#优选域名
-speed.cloudflare.182682.xyz:443#优选域名
-666.cloudflare.182682.xyz:443#优选域名
-141.193.213.107:443#优选域名
-er11.cloudflare.182682.xyz:443#优选域名
-er22.cloudflare.182682.xyz:443#优选域名
-er33.cloudflare.182682.xyz:443#优选域名
-23.227.38.178:443#优选域名
-23.227.38.84:443#优选域名
-23.227.38.43:443#优选域名
-141.193.213.199:443#优选域名
-111.cloudflare.182682.xyz:443#优选域名
-digitalocean.com:443#优选域名
-104.19.174.68:443#优选域名
-104.19.173.68:443#优选域名
-555.cloudflare.182682.xyz:443#优选域名
-23.227.38.212:443#优选域名
-777.cloudflare.182682.xyz:443#优选域名
-888.cloudflare.182682.xyz:443#优选域名
-999.cloudflare.182682.xyz:443#优选域名
+cfyes.lxy1015.top:443#CF [优选高速]
+unamecf2.xn--ghqu5fm27b67w.com:443#CF [优选高速]
+downloadcfpro.xn--ghq880n3na965a.com:443#CF [优选高速]
+unamecf.xn--ghqu5fm27b67w.com:443#CF [优选高速]
+anycast-1.twcc.eu.org:443#CF [优选高速]
+speed.cloudflare.182682.xyz:443#CF [优选高速]
+666.cloudflare.182682.xyz:443#CF [优选高速]
+141.193.213.107:443#CF [优选高速]
+er11.cloudflare.182682.xyz:443#CF [优选高速]
+er22.cloudflare.182682.xyz:443#CF [优选高速]
+er33.cloudflare.182682.xyz:443#CF [优选高速]
+23.227.38.178:443#CF [优选高速]
+23.227.38.84:443#CF [优选高速]
+23.227.38.43:443#CF [优选高速]
+141.193.213.199:443#CF [优选高速]
+111.cloudflare.182682.xyz:443#CF [优选高速]
+digitalocean.com:443#CF [优选高速]
+104.19.174.68:443#CF [优选高速]
+104.19.173.68:443#CF [优选高速]
+555.cloudflare.182682.xyz:443#CF [优选高速]
+23.227.38.212:443#CF [优选高速]
+777.cloudflare.182682.xyz:443#CF [优选高速]
+888.cloudflare.182682.xyz:443#CF [优选高速]
+999.cloudflare.182682.xyz:443#CF [优选高速]
